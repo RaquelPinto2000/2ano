@@ -1,0 +1,3 @@
+http://kurtm.net/mipsasm/
+
+converter codigo para assembly (ter o codigo maquina de uma instrucao)

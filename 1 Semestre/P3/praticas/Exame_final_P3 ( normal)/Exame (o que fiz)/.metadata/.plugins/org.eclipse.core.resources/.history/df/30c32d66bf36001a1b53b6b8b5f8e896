@@ -1,0 +1,17 @@
+
+public class Banco extendes Cliente{
+
+	public Banco(String nome) {
+		super( nome);
+	}
+	
+	public Conta add() {
+		
+	
+	}
+	@Override
+	public String toString() {
+		return "Banco [nome=" + nome + "]";
+	}
+	
+}

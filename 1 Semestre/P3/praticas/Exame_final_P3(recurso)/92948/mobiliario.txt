@@ -1,0 +1,6 @@
+Cadeira: Elite-2, com ID 2034 feito em Sintetico - Cadeira do tipo Escritorio com 1 apoios e altura 0.9
+Cadeira: Mobileplus, com ID 3211 feito em Metal - Cadeira do tipo Escritorio com 4 apoios e altura 0.8, com 6 rodas
+Cama: Fofinha, com ID 4323 feito em Madeira, Cama com colchao e dimensão comprimento=1.9 | altura=1.1
+CamaArticulada: MaxFlex2000, com ID 4124 feito em Metal, Cama com colchao e dimensão comprimento=1.9 | altura=1.2, articulada do tipo  electrica
+Marquesa: Zx20, com ID 1234 feito em Metal, Cama com colchao e dimensão comprimento=1.8 | altura=0.9, marquesa
+Maca: SpeedX2, com ID 9232 feito em Metal, Cama e dimensão comprimento=2.0 | altura=0.8, marquesa, do tipo Maca com 2 ngrades3

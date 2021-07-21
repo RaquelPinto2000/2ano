@@ -1,0 +1,8 @@
+		
+		//slides
+//		double M = 10000;//100000;
+//		double N = 8*M;//127000;
+//		double conta = (double)(-k*M)/(double)N;
+//		double aux = Math.exp(conta);
+//		double PFP = Math.pow(1-aux,k); // (1-e^(k*m/n))^k
+	//	out.printf("Probabilidade de falsos positivos: %.4f ",PFP);

@@ -1,0 +1,15 @@
+
+public class Banco extends Cliente{
+
+	private List<String>  s = new ArrayList<>()= null;
+	public Banco(String nome) {
+		super(nome);
+		s.add(nome)
+	}
+	
+	public Conta add() {
+		
+	
+	}
+	
+}

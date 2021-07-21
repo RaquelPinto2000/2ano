@@ -1,0 +1,8 @@
+
+public class eConta extends Conta{
+	private TipoCliente tipo = Online;
+	public eConta(Cliente c) {
+		super(c);
+	}
+	
+}

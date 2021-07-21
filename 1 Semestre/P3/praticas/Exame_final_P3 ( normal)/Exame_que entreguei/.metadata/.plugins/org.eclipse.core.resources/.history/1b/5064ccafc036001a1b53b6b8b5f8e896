@@ -1,0 +1,23 @@
+import java.util.*;
+public class Banco extends Cliente{
+
+	private List<String>  s = new ArrayList<String>();
+	public Banco(String nome) {
+		super(nome);
+		for(int i=0 ;i<s.size();i++) {
+			for(int j = i ;j<s.size();j++) {
+				if(s.get(i)!=s.get(j)) {
+					s.add(nome);
+				}
+			}
+			
+		}
+		
+	}
+	
+	public Conta add() {
+		
+	
+	}
+	
+}

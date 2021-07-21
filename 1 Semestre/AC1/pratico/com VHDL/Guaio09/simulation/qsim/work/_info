@@ -1,0 +1,186 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/UA/AC1/Guaio09/simulation/qsim
+vALU32
+Z1 !s110 1575454298
+!i10b 1
+!s100 c[RPMbDEbN?[3lf4=>Haf3
+IRco[iG]o;:TbAn8<>`Ne>3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1575454297
+Z3 8MIPS_SingleCycle.vo
+Z4 FMIPS_SingleCycle.vo
+Z5 L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1575454298.000000
+Z8 !s107 MIPS_SingleCycle.vo|
+Z9 !s90 -work|work|MIPS_SingleCycle.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@a@l@u32
+vALU32_vlg_vec_tst
+R1
+!i10b 1
+!s100 77Xdj;L;iIDX<79`S1_I60
+IjgA=ERWPUG0`aBi9A;l7o3
+R2
+R0
+w1575454295
+8ALU32_Simulation.vwf.vt
+FALU32_Simulation.vwf.vt
+Z12 L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 ALU32_Simulation.vwf.vt|
+!s90 -work|work|ALU32_Simulation.vwf.vt|
+!i113 1
+R10
+R11
+n@a@l@u32_vlg_vec_tst
+vALUControlUnit
+Z13 !s110 1575455367
+!i10b 1
+!s100 kTK;];>gE5:_Go[Xo1b>Y2
+I;YV3EBnUFdh8aP<DS[5fF2
+R2
+R0
+w1575455365
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z14 !s108 1575455367.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@a@l@u@control@unit
+vALUControlUnit_vlg_vec_tst
+R13
+!i10b 1
+!s100 ]XW4721M4RODck<HgcZaa0
+Ikdd30LzWgQz2M:S_=fKP10
+R2
+R0
+w1575455361
+8ALUControlUnit_Simulation.vwf.vt
+FALUControlUnit_Simulation.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+R14
+!s107 ALUControlUnit_Simulation.vwf.vt|
+!s90 -work|work|ALUControlUnit_Simulation.vwf.vt|
+!i113 1
+R10
+R11
+n@a@l@u@control@unit_vlg_vec_tst
+vMux2N
+!s110 1575456310
+!i10b 1
+!s100 i:BHR=kkWmBJWnFK55Jf31
+IkhIYA`?j`D@c@M]AJ:A?o1
+R2
+R0
+w1575456309
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z15 !s108 1575456310.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@mux2@n
+vMux2N_vlg_vec_tst
+!s110 1575456311
+!i10b 1
+!s100 P@6>c]:1LIBj?dkco45973
+Ikef3Mb8WJXYdGhATRlP310
+R2
+R0
+w1575456307
+8Mux2N_Simulation.vwf.vt
+FMux2N_Simulation.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+R15
+!s107 Mux2N_Simulation.vwf.vt|
+!s90 -work|work|Mux2N_Simulation.vwf.vt|
+!i113 1
+R10
+R11
+n@mux2@n_vlg_vec_tst
+vRegFile
+Z16 !s110 1574851888
+!i10b 1
+!s100 50QdN>cGV62X4WCVkAE]c2
+IDWEi2bBi_<RffK1`e=o2;0
+R2
+R0
+w1574851885
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+!s108 1574851887.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@reg@file
+vRegFile_vlg_vec_tst
+R16
+!i10b 1
+!s100 ]@PO2JU@VZ0>@9K6iVZ6=0
+I<ooX^=Dal<j7bd6WE1hWn2
+R2
+R0
+w1574851882
+8RegFile_Simulation.vwf.vt
+FRegFile_Simulation.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+!s108 1574851888.000000
+!s107 RegFile_Simulation.vwf.vt|
+!s90 -work|work|RegFile_Simulation.vwf.vt|
+!i113 1
+R10
+R11
+n@reg@file_vlg_vec_tst

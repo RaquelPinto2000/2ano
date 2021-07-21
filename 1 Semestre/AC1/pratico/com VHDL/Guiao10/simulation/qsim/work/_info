@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/UA/AC1/Guiao10/simulation/qsim
+vControlUnit
+Z1 !s110 1576664766
+!i10b 1
+!s100 U01[nbfN1klV:=VEbOfhL2
+IiTS`]<bV@>lUNAOJn71OK1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1576664764
+Z3 8MIPS_SingleCycle.vo
+Z4 FMIPS_SingleCycle.vo
+Z5 L0 31
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1576664766.000000
+Z8 !s107 MIPS_SingleCycle.vo|
+Z9 !s90 -work|work|MIPS_SingleCycle.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@control@unit
+vControlUnit_vlg_vec_tst
+R1
+!i10b 1
+!s100 YVAmWQYLBgzO9C<f[[E5D1
+ImDSlhe2^`65_LIc0Zjz>T0
+R2
+R0
+w1576664762
+8ControlUnit_Simulation.vwf.vt
+FControlUnit_Simulation.vwf.vt
+Z12 L0 29
+R6
+r1
+!s85 0
+31
+R7
+!s107 ControlUnit_Simulation.vwf.vt|
+!s90 -work|work|ControlUnit_Simulation.vwf.vt|
+!i113 1
+R10
+R11
+n@control@unit_vlg_vec_tst
+vDataMemory
+Z13 !s110 1576663261
+!i10b 1
+!s100 gUf`bPZZ?gfeeeCHJgLj73
+ICPb<[@6hBG?elIdVg]XWL1
+R2
+R0
+w1576663259
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+Z14 !s108 1576663261.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@data@memory
+vDataMemory_vlg_vec_tst
+R13
+!i10b 1
+!s100 fPlBM40<`YgKWShP0z[522
+I1chIze[l=bj]5oKQEOiP23
+R2
+R0
+w1576663256
+8DataMemory_Simulation.vwf.vt
+FDataMemory_Simulation.vwf.vt
+R12
+R6
+r1
+!s85 0
+31
+R14
+!s107 DataMemory_Simulation.vwf.vt|
+!s90 -work|work|DataMemory_Simulation.vwf.vt|
+!i113 1
+R10
+R11
+n@data@memory_vlg_vec_tst

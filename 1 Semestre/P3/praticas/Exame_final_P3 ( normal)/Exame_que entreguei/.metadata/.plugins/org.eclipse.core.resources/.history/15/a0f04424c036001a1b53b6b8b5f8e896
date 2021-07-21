@@ -1,0 +1,15 @@
+import java.util.*;
+public class Banco extends Cliente{
+
+	private List<String>  s = new ArrayList<String>()= null;
+	public Banco(String nome) {
+		super(nome);
+		s.add(nome)
+	}
+	
+	public Conta add() {
+		
+	
+	}
+	
+}

@@ -1,0 +1,13 @@
+
+public class Cliente {
+	private String nome;
+	private String Nc ;
+	private Balcao tipo;
+	
+	public Cliente(String nome, String nc, Balcao tipo) {
+		this.nome = nome;
+		Nc = nc;
+		this.tipo = tipo;
+	}
+	
+}

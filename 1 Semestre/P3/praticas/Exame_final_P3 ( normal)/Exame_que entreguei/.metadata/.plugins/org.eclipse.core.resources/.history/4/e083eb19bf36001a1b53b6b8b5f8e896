@@ -1,0 +1,20 @@
+
+public class Conta {
+	private int number=0;
+	private Cliente c;
+	private double saldo;
+	private int movimentos;
+	
+	public Conta(Cliente c) {
+		this.c=c;
+		number++;
+	}
+	
+	public int number() {
+		return number;
+	}
+	
+	public Cliente c() {
+		return c:
+	}
+}

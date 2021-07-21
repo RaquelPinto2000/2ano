@@ -1,0 +1,192 @@
+$comment
+	File created using the following command:
+		vcd file MIPS_SingleCycle.msim.vcd -direction
+$end
+$date
+	Wed Nov 20 09:52:57 2019
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module instructionMemory_vlg_vec_tst $end
+$var reg 6 ! address [5:0] $end
+$var wire 1 " readData [31] $end
+$var wire 1 # readData [30] $end
+$var wire 1 $ readData [29] $end
+$var wire 1 % readData [28] $end
+$var wire 1 & readData [27] $end
+$var wire 1 ' readData [26] $end
+$var wire 1 ( readData [25] $end
+$var wire 1 ) readData [24] $end
+$var wire 1 * readData [23] $end
+$var wire 1 + readData [22] $end
+$var wire 1 , readData [21] $end
+$var wire 1 - readData [20] $end
+$var wire 1 . readData [19] $end
+$var wire 1 / readData [18] $end
+$var wire 1 0 readData [17] $end
+$var wire 1 1 readData [16] $end
+$var wire 1 2 readData [15] $end
+$var wire 1 3 readData [14] $end
+$var wire 1 4 readData [13] $end
+$var wire 1 5 readData [12] $end
+$var wire 1 6 readData [11] $end
+$var wire 1 7 readData [10] $end
+$var wire 1 8 readData [9] $end
+$var wire 1 9 readData [8] $end
+$var wire 1 : readData [7] $end
+$var wire 1 ; readData [6] $end
+$var wire 1 < readData [5] $end
+$var wire 1 = readData [4] $end
+$var wire 1 > readData [3] $end
+$var wire 1 ? readData [2] $end
+$var wire 1 @ readData [1] $end
+$var wire 1 A readData [0] $end
+
+$scope module i1 $end
+$var wire 1 B gnd $end
+$var wire 1 C vcc $end
+$var wire 1 D unknown $end
+$var tri1 1 E devclrn $end
+$var tri1 1 F devpor $end
+$var tri1 1 G devoe $end
+$var wire 1 H readData[0]~output_o $end
+$var wire 1 I readData[1]~output_o $end
+$var wire 1 J readData[2]~output_o $end
+$var wire 1 K readData[3]~output_o $end
+$var wire 1 L readData[4]~output_o $end
+$var wire 1 M readData[5]~output_o $end
+$var wire 1 N readData[6]~output_o $end
+$var wire 1 O readData[7]~output_o $end
+$var wire 1 P readData[8]~output_o $end
+$var wire 1 Q readData[9]~output_o $end
+$var wire 1 R readData[10]~output_o $end
+$var wire 1 S readData[11]~output_o $end
+$var wire 1 T readData[12]~output_o $end
+$var wire 1 U readData[13]~output_o $end
+$var wire 1 V readData[14]~output_o $end
+$var wire 1 W readData[15]~output_o $end
+$var wire 1 X readData[16]~output_o $end
+$var wire 1 Y readData[17]~output_o $end
+$var wire 1 Z readData[18]~output_o $end
+$var wire 1 [ readData[19]~output_o $end
+$var wire 1 \ readData[20]~output_o $end
+$var wire 1 ] readData[21]~output_o $end
+$var wire 1 ^ readData[22]~output_o $end
+$var wire 1 _ readData[23]~output_o $end
+$var wire 1 ` readData[24]~output_o $end
+$var wire 1 a readData[25]~output_o $end
+$var wire 1 b readData[26]~output_o $end
+$var wire 1 c readData[27]~output_o $end
+$var wire 1 d readData[28]~output_o $end
+$var wire 1 e readData[29]~output_o $end
+$var wire 1 f readData[30]~output_o $end
+$var wire 1 g readData[31]~output_o $end
+$var wire 1 h address[4]~input_o $end
+$var wire 1 i address[5]~input_o $end
+$var wire 1 j address[0]~input_o $end
+$var wire 1 k address[1]~input_o $end
+$var wire 1 l address[2]~input_o $end
+$var wire 1 m address[3]~input_o $end
+$var wire 1 n Mux6~2_combout $end
+$var wire 1 o Mux6~3_combout $end
+$var wire 1 p Mux5~2_combout $end
+$var wire 1 q Mux5~3_combout $end
+$var wire 1 r Mux4~0_combout $end
+$var wire 1 s Mux4~1_combout $end
+$var wire 1 t Mux3~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b10 !
+0A
+0@
+1?
+0>
+0=
+0<
+0;
+0:
+09
+08
+07
+06
+05
+04
+03
+02
+11
+00
+0/
+0.
+0-
+0,
+0+
+0*
+0)
+0(
+1'
+1&
+0%
+1$
+0#
+1"
+0B
+1C
+xD
+1E
+1F
+1G
+0H
+0I
+1J
+0K
+0L
+0M
+0N
+0O
+0P
+0Q
+0R
+0S
+0T
+0U
+0V
+0W
+1X
+0Y
+0Z
+0[
+0\
+0]
+0^
+0_
+0`
+0a
+1b
+1c
+0d
+1e
+0f
+1g
+0h
+0i
+0j
+1k
+0l
+0m
+1n
+1o
+0p
+0q
+1r
+0s
+1t
+$end
+#1000000
