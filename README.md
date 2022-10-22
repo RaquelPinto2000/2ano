@@ -1,4 +1,4 @@
-# 3nd year
+# 2nd year
 
 ## Projects of the 1st semester
 
