@@ -1,6 +1,0 @@
-t:"Whatever"
-x:"c"
-print ( "kjsahsdabckjfabc fd" / ("a"+"b"+x/t/"") / "-" )
-t1: "Miguel" //en
-print (t1/"i"/"iii")  // substitui o texto "i" no conteúdo de t1 por "iii" e escreve o
-  
